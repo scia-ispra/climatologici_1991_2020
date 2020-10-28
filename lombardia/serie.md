@@ -72,7 +72,6 @@
 | CASTRONNO                                                                    | 01/01/2004 | 27/10/2020 | 9091  |
 | CAVARGNA                                                                     | 09/04/2004 | 27/10/2020 | 9109  |
 | CAVARIA CON PREMEZZO - v. Cantalupa                                          | 01/01/2004 | 27/10/2020 | 9116  |
-| CAVENAGO D<span class="entity"><span>&amp                                    |            |            |       |
 | CENE - Ponte                                                                 | 01/01/2012 | 27/10/2020 | 9099  |
 | CEVO                                                                         | 18/06/2003 | 27/10/2020 | 8173  |
 | CHIARI                                                                       | 20/06/2003 | 27/10/2020 | 8230  |
@@ -89,14 +88,12 @@
 | COLLIO - S.Colombano                                                         | 09/04/2003 | 15/03/2012 | 8217  |
 | COMO - viale Geno                                                            | 05/07/2000 | 27/10/2020 | 8165  |
 | COMO - Villa Gallia                                                          | 01/01/1999 | 27/10/2020 | 9308  |
-| CORNALE - v.Libert<span class="entity"><span>&amp                            |            |            |       |
 | CORSICO - v.le Italia                                                        | 29/03/2002 | 27/10/2020 | 5902  |
 | CORTENOVA                                                                    | 01/01/2004 | 27/10/2020 | 9105  |
 | CORZANO - Bargnano                                                           | 03/05/1998 | 27/10/2020 | 2465  |
 | COSTA VOLPINO - v.Nazionale                                                  | 01/01/1992 | 27/10/2020 | 5861  |X | | |
 | CREMA - v.Camporelle                                                         | 04/03/2003 | 27/10/2020 | 8188  |
 | CREMA - v.XI febbraio                                                        | 20/01/2004 | 27/10/2020 | 9329  |
-| CREMONA - p.zza Libert<span class="entity"><span>&amp                        |            |            |       |
 | CREMONA - Via Fatebenefratelli                                               | 10/04/2006 | 27/10/2020 | 9933  |
 | CREMONA - v.Gerre Borghi                                                     | 10/10/2011 | 27/10/2020 | 17131 |
 | CUVEGLIO                                                                     | 06/07/2000 | 27/10/2020 | 8150  |
@@ -212,18 +209,13 @@
 | RANZANICO                                                                    | 01/01/2004 | 27/10/2020 | 9090  |
 | RESCALDINA                                                                   | 26/09/2014 | 27/10/2020 | 30536 |
 | RHO - Scalo Fiorenza - Prato                                                 | 24/02/2015 | 27/10/2020 | 14741 |
-| RIVOLTA D<span class="entity"><span>&amp                                     |            |            |       |
 | RODANO - v.Turati                                                            | 01/01/1999 | 27/10/2020 | 5916  |
-| ROTA D<span class="entity"><span>&amp                                        |            |            |       |
 | SAMOLACO - v.Vignola                                                         | 27/07/1994 | 27/10/2020 | 2116  |X | | |
 | SAN COLOMBANO AL LAMBRO                                                      | 27/06/2001 | 27/10/2020 | 2046  |
 | SAN GIACOMO FILIPPO - Lago Truzzo                                            | 09/01/2004 | 27/10/2020 | 9100  |
 | SAN GIOVANNI BIANCO - Cornalita                                              | 07/09/2001 | 27/10/2020 | 2278  |
 | SAN PELLEGRINO TERME - P.za Alighieri                                        | 18/02/2004 | 19/03/2013 | 9118  |
-| SAN SIRO - Alpe Rescasc<span class="entity"><span>&amp                       |            |            |       |
 | SANTA MARGHERITA DI STAFFORA - Casanova                                      | 01/01/2003 | 27/10/2020 | 8201  |
-| SANTA MARGHERITA DI STAFFORA - Passo del Giov<span class="entity"><span>&amp |            |            |       |
-| SANT<span class="entity"><span>&amp                                          |            |            |       |
 | SAREZZO - Gardone                                                            | 01/01/2004 | 06/06/2013 | 9098  |
 | SAREZZO - v.della Fonte                                                      | 02/11/2012 | 27/10/2020 | 14664 |
 | SARNICO - v. Roma                                                            | 12/04/2001 | 27/10/2020 | 8135  |
@@ -254,7 +246,6 @@
 | TOSCOLANO-MADERNO                                                            | 25/03/2012 | 27/10/2020 | 14120 |
 | TREMEZZO                                                                     | 18/04/2013 | 27/10/2020 | 14605 |
 | TREVISO BRESCIANO - Cavacca                                                  | 01/01/1998 | 27/10/2020 | 8103  |
-| TREZZO SULL<span class="entity"><span>&amp                                   |            |            |       |
 | VAL MASINO - Bagni                                                           | 15/07/2011 | 27/10/2020 | 10574 |
 | VAL MASINO - S.Martino                                                       | 21/02/2000 | 27/10/2020 | 9101  |
 | VAL MASINO - Merdarola                                                       | 01/08/2019 | 27/10/2020 | 17600 |
