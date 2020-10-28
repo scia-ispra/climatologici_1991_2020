@@ -1,5 +1,7 @@
 # Serie da richiedere all'ARPA Lombaria
 
+Su HisCentral sono disponibili le serie della Lombardia. 
+
 **Per Emanuela**: queste serie sono disponibili su SCIA? HisCentral + dati centro funzionale?
 
 ## Temperatura
@@ -294,7 +296,6 @@
 | CALCINATO - Ponte S.Marco                                                    | 01/01/2003 | 04/08/2011 | 8182  |
 | CAMPODOLCINO - Alpe Motta                                                    | 17/10/2012 | 27/10/2020 | 14253 |
 | CANEVINO                                                                     | 01/01/2004 | 27/10/2020 | 9108  |
-| CANT<span class="entity"><span>&amp                                          |            |            |       |
 | CANZO                                                                        | 26/11/2008 | 27/10/2020 | 2614  |
 | CAPO DI PONTE - v.Briscioli                                                  | 30/10/2002 | 27/10/2020 | 2408  |
 | CAPRALBA                                                                     | 20/03/1996 | 10/02/2012 | 2395  |
@@ -307,10 +308,8 @@
 | CASALMAGGIORE - v.Volta                                                      | 20/01/2004 | 21/02/2007 | 9322  |
 | CASATENOVO - prato                                                           | 26/04/2002 | 30/10/2017 | 2377  |
 | CASATENOVO - tetto                                                           | 10/11/2003 | 27/10/2020 | 2385  |
-| CASLINO D<span class="entity"><span>&amp                                     |            |            |       |
 | CASNIGO - Campo Sportivo                                                     | 18/02/2004 | 27/10/2020 | 9113  |
 | CASSINA VALSASSINA - Moggio                                                  | 01/01/2002 | 27/10/2020 | 2152  |
-| CASTELLO D<span class="entity"><span>&amp                                    |            |            |       |
 | CASTIGLIONE DELLE STIVIERE                                                   | 11/03/2003 | 22/11/2018 | 8215  |
 | CASTIONE DELLA PRESOLANA                                                     | 01/01/2004 | 27/10/2020 | 9092  |
 | CASTRONNO                                                                    | 01/01/2004 | 27/10/2020 | 9091  |
@@ -320,7 +319,6 @@
 | CEVO                                                                         | 18/06/2003 | 27/10/2020 | 8173  |
 | CHIARI                                                                       | 20/06/2003 | 27/10/2020 | 8230  |
 | CHIAVENNA - v.Cerletti                                                       | 27/10/1993 | 31/12/2010 | 5923  |
-| CHIESA IN VALMALENCO - Alpe dell<span class="entity"><span>&amp              |            |            |       |
 | CHIESA IN VALMALENCO - Funivia Bernina                                       | 04/12/1989 | 27/10/2020 | 42    |X | | |
 | CHIESA IN VALMALENCO - S.Giuseppe                                            | 14/08/1987 | 27/10/2020 | 35    |X | | |
 | CINISELLO BALSAMO - Parco Nord                                               | 30/05/2002 | 27/10/2020 | 4065  |
