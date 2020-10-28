@@ -1,6 +1,6 @@
 # Climatologici 1991-2020
 
-Serie per il calcolo dei valori climatologici
+Sintesi delle fonti dati per il calcolo dei valori climatologici 1991- 2020
 
 ## Campania
 
