@@ -4,4 +4,4 @@ Sintesi delle fonti dati per il calcolo dei valori climatologici 1991- 2020
 
 ## Lombardia
 
-[Lista](./lombardia/serie.md) delle serie da richiedere
+[Lista](./lombardia/serie.md) delle serie utili per il calcolo dei valori climatologici.
