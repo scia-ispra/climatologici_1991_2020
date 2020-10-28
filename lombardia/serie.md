@@ -4,11 +4,11 @@
 
 ## Precipitazione
 
-| Nome stazione | Data Inizio | Data Fine | id|
-|------------------------------------------------------------------------------|------------|------------|-------|
-| AGRATE BRIANZA - v.Ferrario                                                  | 24/03/1992 | 06/11/2018 | 5894  |
+| Nome stazione | Data Inizio | Data Fine | id| WMO | 10 anni mancanti | 15 anni mancanti |
+|------------------------------------------------------------------------------|------------|------------|-------| --- | ---| ---|
+| AGRATE BRIANZA - v.Ferrario                                                  | 24/03/1992 | 06/11/2018 | 5894  | X | | |
 | ANGERA - v.le Repubblica                                                     | 05/07/2000 | 27/10/2020 | 8167  |
-| APRICA                                                                       | 01/01/1995 | 27/10/2020 | 8018  |
+| APRICA                                                                       | 01/01/1995 | 27/10/2020 | 8018  |X | | |
 | ARCISATE                                                                     | 05/07/2000 | 27/10/2020 | 8152  |
 | ARCONATE - SMR                                                               | 05/03/2009 | 27/10/2020 | 4112  |
 | ARDESIO - Valcanale                                                          | 01/01/2004 | 27/10/2020 | 9119  |
@@ -19,10 +19,10 @@
 | BAGOLINO - Valle Dorizzo                                                     | 06/06/2001 | 13/11/2012 | 8137  |
 | BARNI                                                                        | 13/03/2003 | 09/05/2018 | 8213  |
 | BARZIO - Piani di Bobbio                                                     | 14/10/2012 | 27/10/2020 | 14280 |
-| BEMA                                                                         | 01/01/1993 | 27/10/2020 | 2452  |
-| BERGAMO - v.Stezzano                                                         | 15/10/1990 | 27/10/2020 | 2441  |
+| BEMA                                                                         | 01/01/1993 | 27/10/2020 | 2452  |X | | |
+| BERGAMO - v.Stezzano                                                         | 15/10/1990 | 27/10/2020 | 2441  |X | | |
 | BERGAMO - v.Garibaldi                                                        | 15/06/1994 | 11/01/2012 | 5860  |
-| BERGAMO - v.Goisis                                                           | 09/07/1996 | 27/10/2020 | 5857  |
+| BERGAMO - v.Goisis                                                           | 09/07/1996 | 27/10/2020 | 5857  |X | | |
 | BERGAMO - v.S.Giorgio                                                        | 01/01/1989 | 27/10/2011 | 5859  |
 | BERGAMO - v.Maffei                                                           | 01/10/2013 | 27/10/2020 | 19026 |
 | BERTONICO - v.Moro                                                           | 03/03/2009 | 27/10/2020 | 10465 |
@@ -30,20 +30,20 @@
 | BIENNO - Piazze                                                              | 13/07/2018 | 27/10/2020 | 17446 |
 | BIGARELLO                                                                    | 25/11/2009 | 27/10/2020 | 2626  |
 | BIONE                                                                        | 18/11/2012 | 27/10/2020 | 14406 |
-| BORMIO - v.Monte Braulio                                                     | 01/11/1993 | 04/10/2016 | 5921  |
+| BORMIO - v.Monte Braulio                                                     | 01/11/1993 | 04/10/2016 | 5921  |X | | |
 | BORMIO - eliporto                                                            | 12/01/2017 | 27/10/2020 | 19390 |
-| BORMIO - Ponte sul  Frodolfo                                                 | 24/11/1987 | 27/10/2020 | 11    |
+| BORMIO - Ponte sul  Frodolfo                                                 | 24/11/1987 | 27/10/2020 | 11    |X | | |
 | BOSISIO PARINI - Imbarcadero                                                 | 27/10/2012 | 27/10/2020 | 14171 |
 | BOVEGNO - ponte Zigole                                                       | 06/06/2001 | 27/10/2020 | 8172  |
 | BRANZI - Caserma Carabinieri                                                 | 01/01/2002 | 27/10/2020 | 113   |
 | BREMBATE DI SOPRA - Ponte Briolo                                             | 24/07/1998 | 23/08/2011 | 8126  |
 | BREMBILLA                                                                    | 19/03/2013 | 27/10/2020 | 14499 |
 | BRENO - Lago Della Vacca                                                     | 09/12/2012 | 27/10/2020 | 14365 |
-| BRESCIA - ITAS Pastori                                                       | 11/10/1990 | 27/10/2020 | 2417  |
+| BRESCIA - ITAS Pastori                                                       | 11/10/1990 | 27/10/2020 | 2417  |X | | |
 | BRESCIA - v.Ziziola                                                          | 15/10/1997 | 27/10/2020 | 6792  |
 | BRONI                                                                        | 22/03/2018 | 27/10/2020 | 17437 |
 | BUSTO ARSIZIO -  Accam                                                       | 05/12/1998 | 27/10/2020 | 5933  |
-| BUSTO ARSIZIO - v.Magenta                                                    | 25/05/1991 | 21/10/2018 | 5934  |
+| BUSTO ARSIZIO - v.Magenta                                                    | 25/05/1991 | 21/10/2018 | 5934  |X | | |
 | BUSTO ARSIZIO - v.Rossini                                                    | 26/03/2003 | 27/10/2020 | 8219  |
 | CAINO                                                                        | 01/02/2001 | 27/10/2020 | 8139  |
 | CAIOLO                                                                       | 24/05/2002 | 27/10/2020 | 4025  |
@@ -56,7 +56,7 @@
 | CAPRALBA                                                                     | 20/03/1996 | 10/02/2012 | 2395  |
 | CARATE BRIANZA - v.De Gasperi                                                | 31/03/1996 | 06/09/2018 | 5900  |
 | CARENNO - centro sportivo                                                    | 18/07/2014 | 27/10/2020 | 19295 |
-| CARONA - Carisole                                                            | 01/01/1995 | 27/10/2020 | 8025  |
+| CARONA - Carisole                                                            | 01/01/1995 | 27/10/2020 | 8025  |X | | |
 | CARONA - Lago Fregabolgia                                                    | 01/01/2002 | 27/10/2020 | 116   |
 | CASALBUTTANO ED UNITI                                                        | 15/01/2005 | 27/10/2020 | 9120  |
 | CASALMAGGIORE - campo sportivo                                               | 28/03/2017 | 27/10/2020 | 19417 |
@@ -78,13 +78,13 @@
 | CHIARI                                                                       | 20/06/2003 | 27/10/2020 | 8230  |
 | CHIAVENNA - v.Cerletti                                                       | 27/10/1993 | 31/12/2010 | 5923  |
 | CHIESA IN VALMALENCO - Alpe dell<span class="entity"><span>&amp              |            |            |       |
-| CHIESA IN VALMALENCO - Funivia Bernina                                       | 04/12/1989 | 27/10/2020 | 42    |
-| CHIESA IN VALMALENCO - S.Giuseppe                                            | 14/08/1987 | 27/10/2020 | 35    |
+| CHIESA IN VALMALENCO - Funivia Bernina                                       | 04/12/1989 | 27/10/2020 | 42    |X | | |
+| CHIESA IN VALMALENCO - S.Giuseppe                                            | 14/08/1987 | 27/10/2020 | 35    |X | | |
 | CINISELLO BALSAMO - Parco Nord                                               | 30/05/2002 | 27/10/2020 | 4065  |
 | CLUSONE - Campo Sportivo                                                     | 21/11/2001 | 21/07/2015 | 8160  |
 | CLUSONE - SP 671                                                             | 21/11/2012 | 27/10/2020 | 14384 |
 | CODOGNO - Ist.Tosi                                                           | 26/03/2003 | 27/10/2020 | 8221  |
-| COLICO - v.La Madoneta                                                       | 06/11/1990 | 27/10/2020 | 5876  |
+| COLICO - v.La Madoneta                                                       | 06/11/1990 | 27/10/2020 | 5876  |X | | |
 | COLLIO - Memmo                                                               | 18/03/2012 | 27/10/2020 | 14118 |
 | COLLIO - S.Colombano                                                         | 09/04/2003 | 15/03/2012 | 8217  |
 | COMO - viale Geno                                                            | 05/07/2000 | 27/10/2020 | 8165  |
@@ -93,7 +93,7 @@
 | CORSICO - v.le Italia                                                        | 29/03/2002 | 27/10/2020 | 5902  |
 | CORTENOVA                                                                    | 01/01/2004 | 27/10/2020 | 9105  |
 | CORZANO - Bargnano                                                           | 03/05/1998 | 27/10/2020 | 2465  |
-| COSTA VOLPINO - v.Nazionale                                                  | 01/01/1992 | 27/10/2020 | 5861  |
+| COSTA VOLPINO - v.Nazionale                                                  | 01/01/1992 | 27/10/2020 | 5861  |X | | |
 | CREMA - v.Camporelle                                                         | 04/03/2003 | 27/10/2020 | 8188  |
 | CREMA - v.XI febbraio                                                        | 20/01/2004 | 27/10/2020 | 9329  |
 | CREMONA - p.zza Libert<span class="entity"><span>&amp                        |            |            |       |
@@ -104,31 +104,30 @@
 | DARFO BOARIO TERME                                                           | 06/06/2002 | 27/10/2020 | 4049  |
 | DERVIO - v.S.Cecilia                                                         | 03/05/2016 | 27/10/2020 | 19365 |
 | DUBINO - La Piazza                                                           | 21/11/2014 | 27/10/2020 | 19309 |
-| EDOLO - Ist.Meneghini                                                        | 02/04/1993 | 27/10/2020 | 2251  |
-| EDOLO - Pantano d`Avio                                                       | 01/02/1995 | 27/10/2020 | 8021  |
+| EDOLO - Ist.Meneghini                                                        | 02/04/1993 | 27/10/2020 | 2251  |X | | |
+| EDOLO - Pantano d`Avio                                                       | 01/02/1995 | 27/10/2020 | 8021  |X | | |
 | ERBA - v. Battisti                                                           | 01/07/2009 | 27/10/2020 | 5870  |
 | FERNO - v.Di Dio                                                             | 13/08/2007 | 27/10/2020 | 10373 |
-| FILAGO - v.Don Milani                                                        | 07/12/1991 | 27/10/2020 | 5856  |
+| FILAGO - v.Don Milani                                                        | 07/12/1991 | 27/10/2020 | 5856  |X | | |
 | FOPPOLO                                                                      | 01/01/1998 | 27/10/2020 | 8095  |
 | FORTUNAGO                                                                    | 01/01/1998 | 27/10/2020 | 8006  |
-| GAMBARA - v.Parma                                                            | 01/01/1990 | 27/10/2020 | 6819  |
+| GAMBARA - v.Parma                                                            | 01/01/1990 | 27/10/2020 | 6819  |X | | |
 | GANDELLINO - Grabiasca                                                       | 01/01/2004 | 27/10/2020 | 9104  |
 | GARGNANO                                                                     | 15/07/2015 | 27/10/2020 | 14586 |
 | GARZENO                                                                      | 25/07/2013 | 27/10/2020 | 14517 |
 | GAVARDO - SP 116                                                             | 06/08/2020 | 27/10/2020 | 11025 |
 | GERA LARIO - Fuentes                                                         | 01/01/1998 | 27/10/2020 | 8111  |
-| GEROLA ALTA - Pescegallo                                                     | 01/01/1995 | 27/10/2020 | 8015  |
+| GEROLA ALTA - Pescegallo                                                     | 01/01/1995 | 27/10/2020 | 8015  |X | | |
 | GOITO                                                                        | 11/03/2004 | 27/10/2020 | 9114  |
-| GONZAGA                                                                      | 03/01/1994 | 27/10/2020 | 2140  |
+| GONZAGA                                                                      | 03/01/1994 | 27/10/2020 | 2140  |X | | |
 | GORDONA                                                                      | 20/03/2014 | 27/10/2020 | 14700 |
 | GROSIO - Diga Fusino                                                         | 01/01/2002 | 27/10/2020 | 100   |
 | ISPRA - prato                                                                | 25/10/2001 | 01/05/2011 | 2239  |
 | ISPRA - tetto                                                                | 24/09/2003 | 23/10/2012 | 2206  |
 | LAMBRUGO                                                                     | 06/03/2003 | 27/10/2020 | 8197  |
 | LANDRIANO - Cascina Marianna                                                 | 29/09/2005 | 27/10/2020 | 2195  |
-| LANZADA - Campo Moro                                                         | 28/10/1989 | 27/10/2020 | 43    |
-| LANZADA - Ganda                                                              | 10/11/1989 | 27/10/2020 | 46    |
-| LANZADA - Pal<span class="entity"><span>&amp                                 |            |            |       |
+| LANZADA - Campo Moro                                                         | 28/10/1989 | 27/10/2020 | 43    |X | | |
+| LANZADA - Ganda                                                              | 10/11/1989 | 27/10/2020 | 46    |X | | |
 | LANZADA - Passo Marinelli                                                    | 13/10/2012 | 27/10/2020 | 14224 |
 | LASNIGO - s.Alessandro                                                       | 26/09/2018 | 27/10/2020 | 17459 |
 | LAVENA PONTE TRESA - via della Boschiva                                      | 18/04/2012 | 27/10/2020 | 14131 |
@@ -139,7 +138,7 @@
 | LECCO - v.Sora                                                               | 22/07/2008 | 27/10/2020 | 10376 |
 | LESMO - Peregallo                                                            | 13/10/2014 | 27/10/2020 | 14712 |
 | LIMONE SUL GARDA                                                             | 18/03/2012 | 27/10/2020 | 14119 |
-| LIVIGNO - La Vallaccia                                                       | 01/01/1995 | 27/10/2020 | 8029  |
+| LIVIGNO - La Vallaccia                                                       | 01/01/1995 | 27/10/2020 | 8029  |X | | |
 | LIVIGNO - Passo Foscagno                                                     | 02/06/2002 | 27/10/2020 | 4033  |
 | LODI - v. X Maggio                                                           | 18/02/2003 | 27/10/2020 | 8193  |
 | LOMELLO - SS 211                                                             | 16/01/2000 | 26/11/2018 | 8176  |
@@ -162,7 +161,7 @@
 | MILANO - Lambrate                                                            | 29/06/2001 | 27/10/2020 | 2006  |
 | MILANO - P.zza Zavattari                                                     | 22/11/2004 | 27/10/2020 | 9341  |
 | MILANO - v.Confalonieri                                                      | 28/06/2006 | 02/04/2012 | 8149  |
-| MILANO - v.Juvara                                                            | 01/01/1989 | 27/10/2020 | 5908  |
+| MILANO - v.Juvara                                                            | 01/01/1989 | 27/10/2020 | 5908  |X | | |
 | MILANO - v.Rosellini                                                         | 02/04/2012 | 27/10/2020 | 14121 |
 | MISINTO                                                                      | 12/03/2003 | 27/10/2020 | 8211  |
 | MOLTENO - Cimitero                                                           | 01/01/2004 | 27/10/2020 | 9106  |
@@ -192,7 +191,7 @@
 | PAVIA - SS 35                                                                | 04/05/2000 | 27/10/2020 | 8155  |
 | PAVIA - v. Folperti                                                          | 01/06/2002 | 27/10/2020 | 6694  |
 | PERLEDO - P.zza della stazione                                               | 01/07/2010 | 27/10/2020 | 10585 |
-| PERSICO DOSIMO                                                               | 17/10/1990 | 27/10/2020 | 2492  |
+| PERSICO DOSIMO                                                               | 17/10/1990 | 27/10/2020 | 2492  |X | | |
 | PIAZZA BREMBANA - vivaio                                                     | 01/01/1998 | 27/10/2020 | 8098  |
 | PIAZZATORRE                                                                  | 13/10/2012 | 27/10/2020 | 14241 |
 | PIEVE SAN GIACOMO                                                            | 04/07/2002 | 27/10/2020 | 4089  |
@@ -216,7 +215,7 @@
 | RIVOLTA D<span class="entity"><span>&amp                                     |            |            |       |
 | RODANO - v.Turati                                                            | 01/01/1999 | 27/10/2020 | 5916  |
 | ROTA D<span class="entity"><span>&amp                                        |            |            |       |
-| SAMOLACO - v.Vignola                                                         | 27/07/1994 | 27/10/2020 | 2116  |
+| SAMOLACO - v.Vignola                                                         | 27/07/1994 | 27/10/2020 | 2116  |X | | |
 | SAN COLOMBANO AL LAMBRO                                                      | 27/06/2001 | 27/10/2020 | 2046  |
 | SAN GIACOMO FILIPPO - Lago Truzzo                                            | 09/01/2004 | 27/10/2020 | 9100  |
 | SAN GIOVANNI BIANCO - Cornalita                                              | 07/09/2001 | 27/10/2020 | 2278  |
@@ -234,14 +233,14 @@
 | SERMIDE E FELONICA - SP 91                                                   | 10/07/2003 | 27/10/2020 | 8222  |
 | SOMMA LOMBARDO - v.Facchinetti                                               | 20/03/2000 | 27/10/2020 | 5940  |
 | SONCINO - v. Brescia                                                         | 01/01/2000 | 27/10/2020 | 8179  |
-| SONDALO - Le Prese                                                           | 24/11/1987 | 27/10/2020 | 9     |
+| SONDALO - Le Prese                                                           | 24/11/1987 | 27/10/2020 | 9     |X | | |
 | SONDRIO - v.Mazzini                                                          | 28/10/1993 | 11/01/2012 | 5929  |
 | SONDRIO - v.Paribelli                                                        | 17/11/2008 | 22/01/2019 | 10443 |
 | SONDRIO - Fond.Fojanini                                                      | 29/01/2001 | 27/10/2020 | 2103  |
 | SONICO - centrale Edolo                                                      | 21/11/2001 | 16/11/2011 | 8131  |
 | SORMANO - rifugio Alpetto                                                    | 28/11/2017 | 27/10/2020 | 32382 |
 | SPINADESCO - v.Battisti                                                      | 03/02/2011 | 27/10/2020 | 12023 |
-| SPRIANA - Ponte sul Mallero                                                  | 14/08/1987 | 27/10/2020 | 34    |
+| SPRIANA - Ponte sul Mallero                                                  | 14/08/1987 | 27/10/2020 | 34    |X | | |
 | TALEGGIO                                                                     | 01/01/2004 | 10/11/2012 | 9096  |
 | TAVAZZANO CON VILLAVESCO - Enel suolo                                        | 13/01/2000 | 15/06/2015 | 5887  |
 | TAVERNOLA BERGAMASCA - Gallinarga                                            | 27/11/2018 | 27/10/2020 | 17450 |
@@ -260,11 +259,11 @@
 | VAL MASINO - S.Martino                                                       | 21/02/2000 | 27/10/2020 | 9101  |
 | VAL MASINO - Merdarola                                                       | 01/08/2019 | 27/10/2020 | 17600 |
 | VALBONDIONE                                                                  | 01/12/2000 | 27/10/2020 | 9097  |
-| VALDIDENTRO - Arnoga                                                         | 02/05/1988 | 27/10/2020 | 19    |
-| VALDIDENTRO - Cancano                                                        | 03/05/1988 | 27/10/2020 | 20    |
+| VALDIDENTRO - Arnoga                                                         | 02/05/1988 | 27/10/2020 | 19    |X | | |
+| VALDIDENTRO - Cancano                                                        | 03/05/1988 | 27/10/2020 | 20    |X | | |
 | VALDISOTTO - Arginone                                                        | 01/01/2007 | 27/10/2020 | 135   |
-| VALDISOTTO - Oga S. Colombano                                                | 01/01/1995 | 27/10/2020 | 8010  |
-| VALFURVA - S. Caterina                                                       | 02/05/1988 | 27/10/2020 | 21    |
+| VALDISOTTO - Oga S. Colombano                                                | 01/01/1995 | 27/10/2020 | 8010  |X | | |
+| VALFURVA - S. Caterina                                                       | 02/05/1988 | 27/10/2020 | 21    |X | | |
 | VALGANNA - Mondonico                                                         | 18/05/2020 | 27/10/2020 | 10666 |
 | VALMADRERA - v.Pozzi                                                         | 21/01/2006 | 27/10/2020 | 6986  |
 | VALTORTA                                                                     | 01/01/1998 | 27/10/2020 | 8097  |
