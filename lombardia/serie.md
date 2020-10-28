@@ -1,5 +1,7 @@
 # Serie da richiedere all'ARPA Lombaria
 
+**Per Emanuela**: queste serie sono disponibili su SCIA? HisCentral + dati centro funzionale?
+
 ## Temperatura
 
 ## Precipitazione
